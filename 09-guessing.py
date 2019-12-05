@@ -1,5 +1,6 @@
 ## Todo list:
 ### Catch the value error if user inputs a string instead of int.
+## Currently v5
 
 import random
 def main():
